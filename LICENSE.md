@@ -5,7 +5,7 @@ This software is licensed under either:
 1. For organizations with annual revenue under $10,000,000 USD:
 MIT License
 
-Copyright (c) 2024 Ana
+Copyright (c) 2024 Beam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
